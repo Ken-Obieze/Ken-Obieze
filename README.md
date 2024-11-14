@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ken-Obieze
-- 👀 I’m interested in full stack software engineering and development
-- 🌱 I’m currently learning c and android development with flutter and dart
+- 👀 I’m interested in full stack software engineering, Artificial Intelligence and Blockchain development
+- 🌱 I'm Proficient in c, python, javascript, java and go. Currnetly perfecting my MEAN stack skills in parallel with my MERN stack skills, and also working on my android development skills with flutter and dart.
 - 📫 How to reach me kenneth.obieze@outlook.com
 
 <!---
