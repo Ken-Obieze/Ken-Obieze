@@ -10,7 +10,7 @@ Passionate about building scalable applications, integrating cloud services, and
 **Languages & Frameworks:**  
 - JavaScript | TypeScript | Node.js | Express  
 - Python | Go | Java  
-- React | Redux | Flutter (Dart)  
+- React | Redux | Next.js | Angular | Flutter (Dart)  
 
 **Databases & Cloud:**  
 - MongoDB | PostgreSQL | SQL  
