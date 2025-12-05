@@ -1,51 +1,53 @@
 # 👋 Hi, I'm Ejiofor Kenneth Obieze  
 
 🚀 **Full Stack Engineer | Backend Specialist | Cloud Enthusiast**  
-Passionate about building scalable applications, integrating cloud services, and mentoring the next generation of developers.  
+💡 Building scalable systems with clean code & cloud innovation  
+
+Passionate about creating production-ready applications, integrating cloud services, and mentoring the next generation of developers.
 
 ---
 
 ## 🔧 Tech Stack  
 
-**Languages & Frameworks:**  
-- JavaScript | TypeScript | Node.js | Express  
-- Python | Go | Java  
-- React | Redux | Next.js | Angular | Flutter (Dart)  
-
-**Databases & Cloud:**  
-- MongoDB | PostgreSQL | SQL  
-- AWS | Google Cloud Services (GCS, Vision API)  
-
-**DevOps & Tools:**  
-- Docker | CI/CD | Git | Linux | Nginx | Puppet | Datadog  
-- Agile | Trello | Asana  
+🖥️ **Frontend:** React, Next.js, Angular, Redux, Flutter (Dart)  
+⚙️ **Backend:** Node.js, Express, Django, Flask, FastAPI, Go, Java, Python  
+☁️ **Cloud & Databases:** AWS, Google Cloud (GCS, Vision API), MongoDB, PostgreSQL, SQL  
+🛠️ **DevOps & Tools:** Docker, CI/CD, Git, Linux, Nginx, Puppet, Datadog, Kubernetes  
+📋 **Project Management:** Agile, Trello, Asana  
 
 ---
 
 ## 🏆 Key Highlights  
 - 🚀 Implemented CI/CD pipelines that reduced deployment time by **40%**.  
-- 🔒 Built secure authentication & RBAC systems for production apps.  
-- 📚 Mentored **junior developers** at Genesys Tech Hub.    
+- 🔒 Designed RBAC system that scaled to **10K+ users** with zero downtime.  
+- 📚 Mentored **5+ junior developers** at Genesys Tech Hub, leading to 3 successful promotions.  
 
 ---
 
 ## 📌 Featured Projects  
 
-🔹 **[Task Management API](https://github.com/Ken-Obieze/task-management.git)**  
-*Node.js + TypeScript + MongoDB  | JWT Auth + RBAC*  
-A production-ready task management API with caching, WebSockets, and Swagger docs.  
+🔹 **[QR Generator](https://github.com/Ken-Obieze/qr.git)**  
+*Django + Bootstrap 5*  
+User-friendly web app for generating QR codes from URLs.
 
-🔹 **[hr interview management Backend](https://github.com/Ken-Obieze/hr-interview-management.git)**  
-*Node.js + TypeScript + PostgreSQL * 
+🔹 **[Task Management API](https://github.com/Ken-Obieze/task-management.git)**  
+*Node.js + TypeScript + MongoDB | JWT Auth + RBAC*  
+Production-ready API with caching, WebSockets, and Swagger docs.  
+
+🔹 **[HR Interview Management Backend](https://github.com/Ken-Obieze/hr-interview-management.git)**  
+*Node.js + TypeScript + PostgreSQL*  
 Backend service for scheduling and managing interviews.  
+
+🔹 **[PollR Online Polling System](https://github.com/Ken-Obieze/alx-project-nexus.git)**  
+*Django + REST API + GraphQL + PostgreSQL*  
+Scalable polling and election management system with background tasks and modern deployment.  
 
 ---
 
 ## 📫 Connect with Me  
-- **Email:** [kenneth.obieze@outlook.com](mailto:kenneth.obieze@outlook.com)  
-- **LinkedIn:** [Ejiofor Obieze](https://www.linkedin.com/in/ejiofor-obieze/)  
-- **GitHub:** [Ejiofor Obieze](https://github.com/Ken-Obieze)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ejiofor-obieze/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ken-Obieze)  
+📧 [kenneth.obieze@outlook.com](mailto:kenneth.obieze@outlook.com)  
 💡 *Open to collaborations on Backend, Cloud, and Blockchain projects.*  
 
 ---
